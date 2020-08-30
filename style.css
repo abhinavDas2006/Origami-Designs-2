@@ -1,0 +1,47 @@
+h1 {
+    color: darkblue;
+    border: solid;
+    
+}
+
+.header{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+}
+
+.grid{
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    color: darkred;
+    border: solid;
+}
+
+.footer{
+    background-color: lightcoral;
+    color: navy;
+    border: solid;
+}
+
+.d{
+    background-color: slateblue;
+    display: flex;
+    justify-content: flex-start;
+    color: yellow;
+    border: solid;
+}
+
+.c{
+   background-color: teal;
+   color: navy;
+   border: solid;
+}
+
+.g{
+    background-color: red;
+    display: flex;
+    justify-content: flex-start;
+    color: yellow;
+    border: solid;
+}
